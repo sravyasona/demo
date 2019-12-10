@@ -1,14 +1,150 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+   { 
+  "status": 200,
+  "status_message": "Success",
+  "response":
+   [ 
+    {
+       "userId" : "11",
+      "categoryId" :  "FILMS",
+        "question" : "Which car manufacturer was the first to win 100 F1 races?",
+        "option1" : "Ferrari",
+        "option2" : "Nissan",
+        "option3" : "Ford",
+        "option4" : "",
+        "correct" : "Ferrari."
+      "total": "1"
+    },
+    {
+       "userId" : "12",
+      "categoryId" :  "MUSIC",
+       
+        "question" : "In the professional era which woman has won the most titles at Wimbledon [singles, doubles and mixed] ?",
+        "option1" : "Venus",
+        "option2" : "Hingis",
+        "option3" : "Martina Navratilova",
+        "option4" : "Waynetta",
+        "correct" : "Martina Navratilova"
+      "total": "1"
+    },
+      {
+      
+       "userId" : "27",
+      "categoryId" :  "ANIMALS",
+        "question" : "How many times have Liverpool been relegated from the top flight of English football?",
+        "option1" : "Four",
+        "option2" : "Three",
+        "option3" : "Two",
+        "option4" : "Five",
+        "correct" : "Three"
+      "total": "1"
+    },
+  
+    {
+      
+       "userId" : "24",
+      "categoryId" :  "POLITICS",
+        "question" : "How many times have Liverpool been relegated from the top flight of English football?",
+        "option1" : "Four",
+        "option2" : "Three",
+        "option3" : "Two",
+        "option4" : "Five",
+        "correct" : "Three"
+      "total": "1"
+    },
+     {
+       "userId" : "31",
+      "categoryId" :  "ANIME",
+        "question" : "Which car manufacturer was the first to win 100 F1 races?",
+        "option1" : "Ferrari",
+        "option2" : "Nissan",
+        "option3" : "Ford",
+        "option4" : "",
+        "correct" : "Ferrari."
+      "total": "1"
+    },
+    {
+       "userId" : "25",
+      "categoryId" :  "ART",
+       
+        "question" : "In the professional era which woman has won the most titles at Wimbledon [singles, doubles and mixed] ?",
+        "option1" : "Venus",
+        "option2" : "Hingis",
+        "option3" : "Martina Navratilova",
+        "option4" : "Waynetta",
+        "correct" : "Martina Navratilova"
+      "total": "1"
+    },
+ 
+     {
+       "userId" : "21",
+      "categoryId" :  "SPORTS",
+        "question" : "Which car manufacturer was the first to win 100 F1 races?",
+        "option1" : "Ferrari",
+        "option2" : "Nissan",
+        "option3" : "Ford",
+        "option4" : "",
+        "correct" : "Ferrari."
+      "total": "1"
+    },
+    {
+       "userId" : "9",
+      "categoryId" :  " GENERAL",
+       
+        "question" : "In the professional era which woman has won the most titles at Wimbledon [singles, doubles and mixed] ?",
+        "option1" : "Venus",
+        "option2" : "Hingis",
+        "option3" : "Martina Navratilova",
+        "option4" : "Waynetta",
+        "correct" : "Martina Navratilova"
+      "total": "1"
+    },
+     {
+       "userId" : "18",
+      "categoryId" :  "COMPUTER",
+        "question" : "Which car manufacturer was the first to win 100 F1 races?",
+        "option1" : "Ferrari",
+        "option2" : "Nissan",
+        "option3" : "Ford",
+        "option4" : "",
+        "correct" : "Ferrari."
+      "total": "1"
+    },
+    {
+       "userId" : "19",
+      "categoryId" :  "MATHEMATICS",
+       
+        "question" : "In the professional era which woman has won the most titles at Wimbledon [singles, doubles and mixed] ?",
+        "option1" : "Venus",
+        "option2" : "Hingis",
+        "option3" : "Martina Navratilova",
+        "option4" : "Waynetta",
+        "correct" : "Martina Navratilova"
+      "total": "1"
+    },
+     {
+       "userId" : "15",
+      "categoryId" :  " GAMES",
+        "question" : "Which car manufacturer was the first to win 100 F1 races?",
+        "option1" : "Ferrari",
+        "option2" : "Nissan",
+        "option3" : "Ford",
+        "option4" : "",
+        "correct" : "Ferrari."
+      "total": "1"
+    },
+    {
+       "userId" : "14",
+      "categoryId" :  " TELEVISION",
+       
+        "question" : "In the professional era which woman has won the most titles at Wimbledon [singles, doubles and mixed] ?",
+        "option1" : "Venus",
+        "option2" : "Hingis",
+        "option3" : "Martina Navratilova",
+        "option4" : "Waynetta",
+        "correct" : "Martina Navratilova"
+      "total": "1"
+    }
+   ]} 
+    
+   
+    

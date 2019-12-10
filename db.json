@@ -12,7 +12,7 @@
         "option3" : "Ford",
         "option4" : "",
         "correct" : "Ferrari."
-      "total" : "1",
+      "total" = "1",
     },
     {
        "userId" : "12",
